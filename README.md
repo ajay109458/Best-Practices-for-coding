@@ -1,1 +1,1 @@
-# Coding-Best-Practices
+# Best coding practices
